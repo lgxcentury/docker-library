@@ -23,3 +23,9 @@ gcr.io/google_containers/IMAGE_NAME:IMAGE_TAG
 
 比如： 
 gcr.io/google_containers/kube-apiserver-amd64:v1.10.3
+
+
+##  入门命令
+      https://kubernetes.io/docs/home/
+      http://docs.kubernetes.org.cn/
+      略，请自行学习
